@@ -15,7 +15,7 @@ git clone https://github.com/Relic29/MY-PORTFOLIO.git
 ### Navigate to the project
 
 ```bash
-cd MY-PORTFOLIO
+cd portfolio-v2
 ```
 
 ### Run the project
